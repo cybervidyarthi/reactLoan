@@ -1,0 +1,102 @@
+table 
+{
+    border: 1px solid silver;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-color:silver;
+    border-left-color: silver;
+    border-right-color: silver;
+    border-bottom-color: silver;
+  }
+
+td {
+    border: 1px solid silver;
+    border-top-color:silver;
+    border-left-color: silver;
+    border-right-color: black;
+    border-bottom-color: black;
+  }
+
+  th {
+    border: 1px solid black;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-color:black;
+    border-left-color: black;
+    border-right-color: black;
+    border-bottom-color: black;
+    background-color: rgb(120, 162, 163);
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-left: 3px;
+    padding-bottom: 3px;
+  }
+
+
+.HomePage-table {
+    width: 60%;
+    border: 1;
+  border-color: rgb(49, 53, 46);
+  border-bottom-color: palegoldenrod;
+  color: rgb(45, 43, 146);
+  align-self: auto;
+}
+
+
+.HomePage-td-text {
+    text-align: right;
+    text-anchor: middle;
+    font-weight: 400;
+    padding: 1rem;
+    padding-top: 30rem;
+    padding-bottom: 30rem;
+    font-size: 2rem;
+    text-decoration: none;
+}
+
+.HomePage-td-home .HomePage-td-leads .HomePage-td-contacts  .HomePage-td-users 
+.HomePage-td-lead .HomePage-td-contact  .HomePage-td-user
+{
+    width: 25%;
+    border: 0;
+  align-self: center;
+  height:200px;
+}
+
+.HomePage-td-home {
+    background-color: rgb(223, 155, 177);
+}
+
+
+.HomePage-td-leads {
+  background-color: rgb(80, 141, 155);
+}
+
+
+.HomePage-td-contacts {
+  background-color: rgb(123, 189, 134);
+}
+
+
+.HomePage-td-users {
+  background-color: rgb(185, 135, 88);
+}
+
+.HomePage-td-lead {
+    background-color: rgb(194, 219, 224);
+  }
+  
+  
+  .HomePage-td-contact {
+    background-color: rgb(158, 190, 164);
+  }
+  
+  
+  .HomePage-td-user {
+    background-color: rgb(194, 193, 169);
+  }
+  
